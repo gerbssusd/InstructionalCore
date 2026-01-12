@@ -12,13 +12,22 @@ ts: true
 favicon: /Maxfav.png
 ---
 
-## Template
+## Instructional Core
+
+## Seven Principals
+
+2026
 
 <!-- Slide 1 -->
 
 ---
+
+Layout: image-left
+image: /image.png
+
 layout: end
 ---
+
 
 
 
