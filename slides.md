@@ -10,6 +10,7 @@ transition: fade-out
 mdc: true
 ts: true
 favicon: /Maxfav.png
+layout: cover
 ---
 
 # Instructional Core
@@ -21,7 +22,7 @@ City, E.A. et al. (2010) *Instructional Rounds in Education*, Harvard Education 
 <!-- Slide 1 -->
 
 ---
-layout: full
+layout: center
 ---
 
 # The Instructional Core:
@@ -119,6 +120,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
