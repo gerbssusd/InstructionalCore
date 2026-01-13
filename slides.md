@@ -44,7 +44,7 @@ image: /image.png
 
 # Principle 1
 
-## Increases in student learning occur only as a consequence of improvements in:
+## Increases in student learning occur only as a consequence of improvements in [^1]:
 
    <v-clicks>
      
@@ -60,6 +60,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
