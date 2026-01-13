@@ -112,9 +112,12 @@ layout: center
 ## Analysis before prediction;
 ## Prediction before evaluation.  
 
+</v-clicks>
+
 ---
 layout: end
 ---
+
 
 
 
