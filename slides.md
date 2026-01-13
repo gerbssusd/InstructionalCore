@@ -21,7 +21,7 @@ City, E.A. et al. (2010) *Instructional Rounds in Education*, Harvard Education 
 <!-- Slide 1 -->
 
 ---
-layout: center
+layout: full
 ---
 
 # The Instructional Core:
@@ -55,7 +55,7 @@ image: /image.png
    </v-clicks>
 
 ---
-layout: default
+layout: center
 ---
 
 # Principle #2:
@@ -119,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
