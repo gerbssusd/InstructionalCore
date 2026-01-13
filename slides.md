@@ -40,17 +40,18 @@ layout: center
 Layout: image-left
 image: /image.png
 ---
-1) Increases in student learning oddur only as a consequence of improvements in:
+1) Increases in student learning occur only as a consequence of improvements in:
    <v-clicks>
    - Level of Content
    - Teacher's Knowledge
    - Student Engagement
    </v-clicks>
   
-   
+   [^1]: City et al., ** Instructional Rounds in Education **
 
 layout: end
 ---
+
 
 
 
