@@ -43,7 +43,7 @@ layout: image-left
 image: /image.png
 ---
 
-# Principle 1
+# Principle #1:
 
 ## Increases in student learning occur only as a consequence of improvements in:
 
@@ -56,8 +56,59 @@ image: /image.png
    </v-clicks>
 
 ---
+layout: default
+---
+
+# Principle #2:
+
+## Change to one element triggers change to the remaining two elements
+
+---
+layout: default
+---
+
+# Princiiple #3:
+
+## If it isn't visible in the core, it does not exist.
+
+---
+
+# Principle #4:
+
+## Task Predicts Performance
+
+---
+
+# Principle #5
+
+## Student tasks = Real accountability system.
+
+---
+
+# Principle #6
+
+## The work is learned by ***doing*** the work, ***NOT*** by
+
+<v-clicks>
+- *telling* others to do it;
+- having done the work in the past;
+- hiring experts to do the work.
+</v-clicks>v-clicks>
+
+---
+
+# Principle #7
+
+<v-clicks>
+  
+## Description before analysis;
+## Analysis before predition;
+## Prediction before evaluation.  
+
+---
 layout: end
 ---
+
 
 
 
