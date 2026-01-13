@@ -42,7 +42,7 @@ Layout: image-left
 image: /image.png
 ---
 
-# Principal 1
+# Principle 1
 
 ## Increases in student learning occur only as a consequence of improvements in:
 
@@ -60,6 +60,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
