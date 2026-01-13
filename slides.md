@@ -21,7 +21,10 @@ favicon: /Maxfav.png
 <!-- Slide 1 -->
 
 ---
-## The Instructional Core:
+layout: center
+---
+
+# The Instructional Core:
 
 ```mermaid {theme: redux, layout: dagre}
   flowchart LR
@@ -51,6 +54,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
