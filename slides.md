@@ -51,7 +51,7 @@ image: /image.png
    - Level of Content
    - Teacher's Knowledge
    - Student Engagement
-   - 
+   
    </v-clicks>
   
    [^1]: City et al., ** Instructional Rounds in Education **
@@ -60,6 +60,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
