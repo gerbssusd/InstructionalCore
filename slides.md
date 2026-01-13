@@ -56,7 +56,7 @@ image: /image.png
    </v-clicks>
 
 ---
-layout: default
+layoute: center
 ---
 
 # Principle #2:
@@ -64,13 +64,15 @@ layout: default
 ## Change to one element triggers change to the remaining two elements
 
 ---
-layout: default
+layout: center
 ---
 
 # Princiiple #3:
 
 ## If it isn't visible in the core, it does not exist.
 
+---
+layout: center
 ---
 
 # Principle #4:
@@ -108,6 +110,7 @@ layout: default
 ---
 layout: end
 ---
+
 
 
 
