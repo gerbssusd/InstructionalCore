@@ -66,7 +66,7 @@ layout: center
 layout: center
 ---
 
-# Princiiple #3:
+# Principle #3:
 
 ## If it isn't visible in the core, it does not exist.
 
@@ -119,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
