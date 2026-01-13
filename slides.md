@@ -11,12 +11,14 @@ mdc: true
 ts: true
 favicon: /Maxfav.png
 ---
+layout: cover
+---
 
 # Instructional Core
 
 ## Seven Principals
 
-2026
+City, E.A. et al. (2010) *Instructional Rounds in Education*, Harvard Education Press.
 
 <!-- Slide 1 -->
 
@@ -44,7 +46,7 @@ image: /image.png
 
 # Principle 1
 
-## Increases in student learning occur only as a consequence of improvements in [^1]:
+## Increases in student learning occur only as a consequence of improvements in:
 
    <v-clicks>
      
@@ -53,13 +55,11 @@ image: /image.png
    - Student Engagement
    
    </v-clicks>
-  
-   [^1]: City et al., *Instructional Rounds in Education*
 
 ---
-
 layout: end
 ---
+
 
 
 
