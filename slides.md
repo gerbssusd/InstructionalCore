@@ -37,12 +37,21 @@ layout: center
 ```
 
 ---
-
 Layout: image-left
 image: /image.png
+---
+1) Increases in student learning oddur only as a consequence of improvements in:
+   <v-clicks>
+   - Level of Content
+   - Teacher's Knowledge
+   - Student Engagement
+   </v-clicks>
+  
+   
 
 layout: end
 ---
+
 
 
 
