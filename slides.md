@@ -39,8 +39,7 @@ layout: center
 ```
 
 ---
-layout: image-left
-image: /image.png
+layout: center
 ---
 
 # Principle #1:
@@ -120,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
