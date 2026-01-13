@@ -3,7 +3,7 @@ theme: seriph
 
 background: https://cover.sli.dev
 
-title: "Logical Fallacies in Today's News"
+title: "Seven Principals of the Instructional Core"
 # slide transition: https://sli.dev/guide/animations.html#slide-transitions
 transition: fade-out
 # enable MDC Syntax: https://sli.dev/features/mdc
@@ -12,7 +12,7 @@ ts: true
 favicon: /Maxfav.png
 ---
 
-## Instructional Core
+# Instructional Core
 
 ## Seven Principals
 
@@ -51,6 +51,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
