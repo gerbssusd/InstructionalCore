@@ -56,7 +56,7 @@ image: /image.png
    </v-clicks>
 
 ---
-layoute: center
+layout: center
 ---
 
 # Principle #2:
@@ -110,6 +110,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
