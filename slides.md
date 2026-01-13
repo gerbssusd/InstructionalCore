@@ -80,11 +80,15 @@ layout: center
 ## Task Predicts Performance
 
 ---
+layout: center
+---
 
 # Principle #5
 
 ## Student tasks = Real accountability system.
 
+---
+layout: center
 ---
 
 # Principle #6
@@ -98,6 +102,8 @@ layout: center
 </v-clicks>
 
 ---
+layout: center
+---
 
 # Principle #7
 
@@ -110,6 +116,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
