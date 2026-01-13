@@ -11,8 +11,6 @@ mdc: true
 ts: true
 favicon: /Maxfav.png
 ---
-layout: center
----
 
 ## Instructional Core
 
@@ -53,6 +51,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
