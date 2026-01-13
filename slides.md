@@ -21,12 +21,25 @@ favicon: /Maxfav.png
 <!-- Slide 1 -->
 
 ---
+```mermaid {theme: redux, layout: dagre}
+  flowchart LR
+      A[Teacher] 
+      B[Student]
+      C[Content]
+    
+      B <--> C
+      A <--> B 
+      A <--> C
+```
+
+---
 
 Layout: image-left
 image: /image.png
 
 layout: end
 ---
+
 
 
 
