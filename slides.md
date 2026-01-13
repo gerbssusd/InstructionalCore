@@ -102,12 +102,13 @@ layout: default
 <v-clicks>
   
 ## Description before analysis;
-## Analysis before predition;
+## Analysis before prediction;
 ## Prediction before evaluation.  
 
 ---
 layout: end
 ---
+
 
 
 
