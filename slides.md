@@ -10,7 +10,6 @@ transition: fade-out
 mdc: true
 ts: true
 favicon: /Maxfav.png
-layout: cover
 ---
 
 # Instructional Core
@@ -116,6 +115,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
