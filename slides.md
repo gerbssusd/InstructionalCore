@@ -10,7 +10,6 @@ transition: fade-out
 mdc: true
 ts: true
 favicon: /Maxfav.png
----
 layout: cover
 ---
 
@@ -59,6 +58,7 @@ image: /image.png
 ---
 layout: end
 ---
+
 
 
 
