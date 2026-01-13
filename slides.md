@@ -39,7 +39,7 @@ layout: center
 ```
 
 ---
-Layout: image-left
+layout: image-left
 image: /image.png
 ---
 
@@ -58,6 +58,7 @@ image: /image.png
 ---
 layout: end
 ---
+
 
 
 
