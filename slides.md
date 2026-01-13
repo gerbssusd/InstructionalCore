@@ -54,12 +54,13 @@ image: /image.png
    
    </v-clicks>
   
-   [^1]: City et al., ** Instructional Rounds in Education **
+   [^1]: City et al., *Instructional Rounds in Education*
 
 ---
 
 layout: end
 ---
+
 
 
 
