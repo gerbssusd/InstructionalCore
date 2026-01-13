@@ -95,9 +95,11 @@ layout: center
 ## The work is learned by ***doing*** the work, ***NOT*** by
 
 <v-clicks>
-- *telling* others to do it;
+  
+-  *telling* others to do it;
 - having done the work in the past;
 - hiring experts to do the work.
+
 </v-clicks>
 
 ---
@@ -117,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
