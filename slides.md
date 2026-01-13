@@ -41,11 +41,17 @@ layout: center
 Layout: image-left
 image: /image.png
 ---
-1) Increases in student learning occur only as a consequence of improvements in:
+
+# Principal 1
+
+## Increases in student learning occur only as a consequence of improvements in:
+
    <v-clicks>
+     
    - Level of Content
    - Teacher's Knowledge
    - Student Engagement
+   - 
    </v-clicks>
   
    [^1]: City et al., ** Instructional Rounds in Education **
@@ -54,6 +60,7 @@ image: /image.png
 
 layout: end
 ---
+
 
 
 
