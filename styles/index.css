@@ -40,7 +40,7 @@
   bottom: 20;
   right: 20;
   font-size: 8px;
-  color: AliceBlue;
+  opacity: 0.5;
 }
 
 .refR {
@@ -48,6 +48,6 @@
   bottom: 20;
   left: 20;
   font-size: 8px;
-  color: AliceBlue;
+  opacity: 0.5;
 }
   
