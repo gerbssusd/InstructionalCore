@@ -34,3 +34,20 @@
   padding-right: 15px;
   padding-bottom: 50px;
 }
+
+.refL {
+  position: fixed;
+  bottom: 20;
+  right: 20;
+  font-size: 8px
+  color: AliceBlue
+}
+
+.refR {
+  position: fixed;
+  bottom: 20;
+  left: 20;
+  font-size: 8px
+  color: AliceBlue
+}
+  
