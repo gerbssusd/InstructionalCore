@@ -39,7 +39,8 @@ layout: center
 ```
 
 ---
-layout: center
+layout: image-left
+image: image.png
 ---
 
 # Principle #1:
@@ -54,6 +55,7 @@ layout: center
    
    </v-clicks>
 
+<div class=refL>reference text here.</div>
 ---
 layout: center
 ---
@@ -119,6 +121,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
