@@ -55,7 +55,7 @@ image: image.png
    
    </v-clicks>
 
-<div class="refL">reference text here.</div>
+<h6>reference text here.</h6>
 ---
 layout: center
 ---
@@ -121,6 +121,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
