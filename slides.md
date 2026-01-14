@@ -39,8 +39,7 @@ layout: center
 ```
 
 ---
-layout: image-left
-image: /vitaly-gariev-Njj5a0gvTu4-unsplash.jpg
+layout: center
 ---
 
 # Principle #1:
@@ -54,8 +53,6 @@ image: /vitaly-gariev-Njj5a0gvTu4-unsplash.jpg
    - Student Engagement
    
    </v-clicks>
-
-<div class="refL">Photo by <a href="https://unsplash.com/@silverkblack?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vitaly Gariev</a> on <a href="https://unsplash.com/photos/a-person-writing-complex-formulas-on-a-chalkboard-Njj5a0gvTu4?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></div>
 
 ---
 layout: center
@@ -122,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
