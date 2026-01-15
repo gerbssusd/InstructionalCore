@@ -98,7 +98,7 @@ layout: center
   
 -  *telling* others to do it;
 - having done the work in the past;
-- hiring experts to do the work.
+- hiring experts to do the work or act like proxies for knowledge about how to do the work.
 
 </v-clicks>
 
@@ -119,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
