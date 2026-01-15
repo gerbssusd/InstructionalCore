@@ -27,7 +27,7 @@ layout: center
 
 # The Instructional Core:
 
-```mermaid {theme: redux, layout: dagre}
+```mermaid {theme: redux, layout: dagre, scale: 1.5}
   flowchart LR
       A[Teacher] 
       B[Student]
@@ -119,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
