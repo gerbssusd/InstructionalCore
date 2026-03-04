@@ -15,7 +15,7 @@ layout: cover
 
 # Instructional Core
 
-## Seven Principals
+## Seven Principles
 
 City, E.A. et al. (2010) *Instructional Rounds in Education*, Harvard Education Press.
 
@@ -119,6 +119,7 @@ layout: center
 ---
 layout: end
 ---
+
 
 
 
